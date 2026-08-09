@@ -1,0 +1,3 @@
+Python is easy to learn.
+Python is useful for data analysis.
+Python is popular.
